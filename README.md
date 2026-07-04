@@ -47,8 +47,9 @@ npm run dev
 # or
 npm start
 ```
-##  Project Structure
+##  Project Structure 
 
+```text
 ignito/
 ├── src/
 │   ├── app.jsx              # The main React file containing all logic, routing, and UI
@@ -61,3 +62,4 @@ ignito/
 ├── README.md                # Project documentation
 ├── tailwind.config.js       # Configuration for Tailwind CSS 
 └── vite.config.js           # Configuration for the build tool
+```
