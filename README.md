@@ -56,8 +56,8 @@ ignito/
 │   └── main.jsx             # The React entry point that renders app.jsx into index.html
 ├── .gitignore               # Ignored files 
 ├── index.html               # The main HTML file where your app is injected
-├── package.json             # Lists your dependencies    
-├──package-lock.json         # Exact versions of your installed dependencies
+├── package.json             # Lists your dependencies  
+├── package-lock.json        # Exact versions of your installed dependencies
 ├── README.md                # Project documentation
 ├── tailwind.config.js       # Configuration for Tailwind CSS 
 └── vite.config.js           # Configuration for the build tool
